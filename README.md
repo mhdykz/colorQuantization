@@ -1,3 +1,3 @@
-# colorQuantization 2
+# colorQuantization
 
-this code sucks
+don't read me.
